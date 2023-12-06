@@ -10,15 +10,21 @@ Este repositorio contiene un análisis detallado de los accidentes de tránsito 
 
 ![Victimas](Proyecyo-Individual-02-SiniestrosViales/Graficos/Victima.png)
 
-Se puede observar que las motocicletas son el mayor número de victimas en homicidios de transito ocurridos en Caba. Segundo lugar, e igualmente alarmante, se tienen a los peatones, lo cúal indica una concietización nula de parte de la ciudadania. 
+Se evidencia que las motocicletas representan la categoría con mayor incidencia de víctimas en homicidios de tránsito en la Ciudad Autónoma de Buenos Aires (CABA). Un dato igualmente preocupante es la presencia significativa de peatones como la segunda categoría con más víctimas, indicando una falta de concientización por parte de la ciudadanía en cuanto a la seguridad vial.
+
+Este análisis refleja la necesidad urgente de implementar medidas y estrategias que aborden de manera específica los riesgos asociados a la conducción de motocicletas, así como también fortalecer iniciativas que promuevan la seguridad de los peatones. La alta incidencia de ambos grupos de víctimas resalta la importancia de crear conciencia sobre las normas de tránsito y fomentar un comportamiento seguro entre todos los actores viales.
+
 --- 
 # Accidentes por sexo 
 
 ![Sexo_Victimas](Proyecyo-Individual-02-SiniestrosViales/Graficos/Victima-sexo.png)
 
 
-Se puede notar una incidencia mayor en el número de accidentes fatales en el sexo masculino. 
---- 
+Se observa una notable prevalencia de accidentes fatales en el género masculino. Este hallazgo sugiere que los hombres enfrentan un riesgo significativamente mayor de involucrarse en accidentes de tránsito con consecuencias fatales en comparación con otros géneros. Este patrón subraya la importancia de abordar de manera específica los comportamientos de riesgo y las circunstancias que contribuyen a esta disparidad de género. Es esencial desarrollar estrategias y campañas de concientización que se centren en la conducta segura y responsable de los conductores masculinos para reducir la incidencia de accidentes mortales y mejorar la seguridad vial de manera integral.
+
+---
+
+
 # Analisis Exploratorio de datos
 
 Tasa anual de accidentes en motocilcetas: 
