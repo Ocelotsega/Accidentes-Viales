@@ -44,6 +44,7 @@ En este analisis, determinamos de forma preliminar los datos necesarios para la 
 
 
 KPIs: Reducción del 7% en Accidentes Mortales de Motocicletas
+
 Cálculo del KPI:
 El KPI de "Reducción del 7% en accidentes mortales de motocicletas" se calculará de la siguiente manera:
 
